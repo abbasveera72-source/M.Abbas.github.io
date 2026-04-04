@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "Muhammad Abbas"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/profile.jpeg" #path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Specializing in predictive modeling and survival analysis. I leverage Python, Scikit-Learn, and SQL to transform complex engineering data into actionable insights and high-impact technical presentations."
   location         : "Faisalabad"
   email            : "chenabian7861214@gmail.com"
