@@ -12,7 +12,7 @@ categories: [Personal, Life]
 ## The Roots: Life as a Chenabian
 
 <div style="float: left; width: 300px; margin: 0 20px 10px 0; padding: 5px; border: 1px solid #e1e4e8; border-radius: 8px; background: white; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
-  <img src="{{ '/assets/images/picture-1.png' | relative_url }}" alt="Chenabian Roots" style="width: 100%; border-radius: 6px; display: block;">
+  <img src="{{ '/assets/images/picture-1.png' | relative_url }}" alt="The Roots" style="width: 100%; border-radius: 6px; display: block;">
   <p style="margin: 5px 0 0; text-align: center; color: #888; font-size: 0.8rem; font-style: italic;">Where curiosity began: Near the banks of the Chenab.</p>
 </div>
 
@@ -27,7 +27,7 @@ However, even then, I found myself fascinated by how things worked. Whether it w
 Leaving the familiar comfort of my hometown to join the **University of Engineering and Technology (UET), Lahore**, was a turning point. Stepping onto the campus was both a proud moment and a humbling challenge. Suddenly, I was a **Computer Engineering** student (Roll No. 149).
 
 <div style="float: right; width: 300px; margin: 10px 0 10px 20px; padding: 5px; border: 1px solid #e1e4e8; border-radius: 8px; background: white; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
-  <img src="{{ '/assets/images/picture-2.png' | relative_url }}" alt="UET Lahore Computer Engineering" style="width: 100%; border-radius: 6px; display: block;">
+  <img src="{{ '/assets/images/picture-2.png' | relative_url }}" alt="The Transition" style="width: 100%; border-radius: 6px; display: block;">
   <p style="margin: 5px 0 0; text-align: center; color: #888; font-size: 0.8rem; font-style: italic;">The new frontier: UET Lahore.</p>
 </div>
 
@@ -38,7 +38,7 @@ Life at UET is a whirlwind of 16-credit hour semesters and late-night lab report
 ## Looking Forward
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="{{ '/assets/images/picture-3.png' | relative_url }}" alt="Engineering is Building Bridges" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+  <img src="{{ '/assets/images/picture-3.png' | relative_url }}" alt="Engineering Bridge" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
 </div>
 
 <div style="background: #f8f9fa; padding: 30px; border-radius: 15px; border-top: 5px solid #007bff; margin: 20px 0;">
