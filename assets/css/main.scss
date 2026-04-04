@@ -5,5 +5,36 @@ search: false
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+// 1. Theme Skins (Default, Air, Aqua, etc.)
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; 
+
+// 2. Core Theme Files
+@import "minimal-mistakes"; 
+
+// 3. YOUR CUSTOM OVERRIDES (Add these below)
+// -----------------------------------------------------------------
+
+/* Professional Avatar Styling */
+.author__avatar img {
+  border-radius: 50%; /* Makes your profile.jpeg a perfect circle */
+  border: 3px solid #f2f3f3;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* Ensure Home Page content is centered and clean */
+.page__content {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+/* Hide 'Recent Posts' if they accidentally appear on the Index */
+.home .archive__item-title, 
+.home .archive__item-excerpt {
+  display: none !important; 
+}
+
+/* Navigation Hover Effects */
+.greedy-nav a:hover {
+  color: #007bff !important; /* Professional blue highlight */
+  text-decoration: underline;
+}
