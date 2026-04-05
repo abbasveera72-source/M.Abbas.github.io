@@ -10,7 +10,7 @@ categories: [Engineering, AI]
 
 As I continue to bridge the gap between academic theory and real-world application at UET Lahore, the path ahead is becoming increasingly clear. My journey is no longer just about learning—it's about **innovation at the edge.**
 
-![Edge Intelligence Concept](/assets/images/edge-intelligence-concept.png)
+![Edge Intelligence Concept](/M.Abbas.github.io/assets/images/edge-intelligence-concept.png)
 
 ---
 
@@ -33,7 +33,7 @@ To reach this future, I am constantly refining my technical toolkit:
 ### The Cyber-Engineering Aesthetic
 I believe that the tools we build should look as sophisticated as the logic behind them. By embracing a **dark-mode, glassmorphism** design philosophy, I aim to create digital experiences that feel like the future.
 
-![Cyber-Engineering Workspace](/assets/images/cyber-engineering-workspace.png)
+![Cyber-Engineering Workspace](/M.Abbas.github.io/assets/images/cyber-engineering-workspace.png)
 
 > "The best way to predict the future is to create it."
 
