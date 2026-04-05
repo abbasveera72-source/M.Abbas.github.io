@@ -1,4 +1,4 @@
----
+[---
 layout: post
 title: "Navigating the Horizon: My Journey into Edge Intelligence"
 date: 2026-04-05
@@ -47,3 +47,4 @@ The road ahead is filled with complex challenges, from optimizing neural network
 
 **Published by:** Muhammad Abbas (Roll No. 149)  
 **Contact:** [chenabian7861214@gmail.com](mailto:chenabian7861214@gmail.com)
+](https://abbasveera72-source.github.io/M.Abbas.github.io/)
