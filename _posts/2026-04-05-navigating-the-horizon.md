@@ -34,6 +34,7 @@ To reach this future, I am constantly refining my technical toolkit:
 I believe that the tools we build should look as sophisticated as the logic behind them. By embracing a **dark-mode, glassmorphism** design philosophy, I aim to create digital experiences that feel like the future.
 
 ![Cyber-Engineering Workspace]({{ site.url }}{{ site.baseurl }}/cyber-engineering-workspace.png)
+
 > "The best way to predict the future is to create it."
 
 The road ahead is filled with complex challenges, from optimizing neural networks to architecting secure IoT ecosystems. But with every project, I am building the "Digital Bridge" to a smarter, more connected world.
