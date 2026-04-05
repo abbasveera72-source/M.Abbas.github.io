@@ -1,4 +1,4 @@
-[---
+---
 layout: post
 title: "Navigating the Horizon: My Journey into Edge Intelligence"
 date: 2026-04-05
@@ -10,7 +10,7 @@ categories: [Engineering, AI]
 
 As I continue to bridge the gap between academic theory and real-world application at UET Lahore, the path ahead is becoming increasingly clear. My journey is no longer just about learning—it's about **innovation at the edge.**
 
-![Edge Intelligence Concept](/assets/images/edge-intelligence-concept.png)
+![Edge Intelligence Concept]({{ site.baseurl }}/assets/images/edge-intelligence-concept.png)
 
 ---
 
@@ -33,7 +33,7 @@ To reach this future, I am constantly refining my technical toolkit:
 ### The Cyber-Engineering Aesthetic
 I believe that the tools we build should look as sophisticated as the logic behind them. By embracing a **dark-mode, glassmorphism** design philosophy, I aim to create digital experiences that feel like the future.
 
-![Cyber-Engineering Workspace](/assets/images/cyber-engineering-workspace.png)
+![Cyber-Engineering Workspace]({{ site.baseurl }}/assets/images/cyber-engineering-workspace.png)
 
 > "The best way to predict the future is to create it."
 
@@ -47,4 +47,3 @@ The road ahead is filled with complex challenges, from optimizing neural network
 
 **Published by:** Muhammad Abbas (Roll No. 149)  
 **Contact:** [chenabian7861214@gmail.com](mailto:chenabian7861214@gmail.com)
-](https://abbasveera72-source.github.io/M.Abbas.github.io/)
