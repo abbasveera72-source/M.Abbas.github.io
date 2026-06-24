@@ -1,30 +1,33 @@
 ---
+
 layout: single
 title: "Surviving My Second Semester Final Exams: Lessons, Challenges, and Growth"
 date: 2026-06-25
 author: "Muhammad Abbas"
 
 categories:
-  - Student-Life
-  - Exams
+
+* Student-Life
+* Exams
 
 tags:
-  - Final-Exams
-  - Computer-Engineering
-  - UET-FSD
-  - Time-Management
-  - Group-Study
-  - Dr-Bilal-Ahmad
+
+* Final-Exams
+* Computer-Engineering
+* UET-FSD
+* Time-Management
+* Group-Study
+* Dr-Bilal-Ahmad
 
 excerpt: "My experience of surviving final examinations during my second semester at UET Lahore Faisalabad Campus."
 
 header:
-  teaser: /assets/images/aa.png
----
+teaser: /assets/images/aa.png
+-----------------------------
 
-<img src="{{ '/assets/images/aa.png' | relative_url }}"
-     alt="Final Exam Week"
-     style="width:100%; border-radius:10px; margin-bottom:20px;">
+<img src="{{ site.baseurl }}/assets/images/aa.png"
+  alt="Final Exam Week"
+  style="width:100%; border-radius:10px; margin-bottom:20px;">
 
 # Surviving My Second Semester Final Exams: Lessons, Challenges, and Growth
 
@@ -38,13 +41,13 @@ One of the biggest challenges I faced during final exams was managing stress and
 
 Among all the courses, **Database Management Systems (DBMS)** was the most difficult subject for me. The course contained numerous concepts related to database design, normalization, SQL queries, relational algebra, and transaction management. Understanding these topics required continuous practice and conceptual clarity.
 
-Fortunately, **Dr. Bilal Ahmad**, who taught us DBMS, always encouraged us to understand concepts rather than memorize them. His teaching methodology motivated me to focus on practical understanding, which ultimately helped me during examinations. Throughout the semester, Dr. Bilal Ahmad emphasized the importance of databases in modern computing systems, and his lectures inspired me to appreciate how databases play a crucial role in software applications and data-driven technologies.
+Fortunately, **Dr. Bilal Ahmad**, who taught us DBMS, always encouraged us to understand concepts rather than memorize them. His teaching methodology motivated me to focus on practical understanding, which ultimately helped me during examinations.
 
 ## The Importance of Group Study
 
-<img src="{{ '/assets/images/a1.png' | relative_url }}"
-     alt="Group Study"
-     style="width:100%; border-radius:10px; margin-bottom:20px;">
+<img src="{{ site.baseurl }}/assets/images/a1.png"
+  alt="Group Study"
+  style="width:100%; border-radius:10px; margin-bottom:20px;">
 
 Another important aspect of my exam preparation was group study. I prepared for exams together with my friends. Studying in a group proved to be highly beneficial because we were able to discuss difficult concepts, solve problems collaboratively, and clarify misunderstandings.
 
