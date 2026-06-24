@@ -1,0 +1,152 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Post 6: Managing Assignments, Quizzes, and Labs</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.8;
+            max-width: 900px;
+            margin: auto;
+            padding: 20px;
+            color: #333;
+            text-align: justify;
+        }
+
+        h1 {
+            color: #0A66C2;
+            text-align: center;
+        }
+
+        img {
+            width: 100%;
+            border-radius: 10px;
+            margin-bottom: 25px;
+        }
+
+        p {
+            margin-bottom: 18px;
+        }
+
+        hr {
+            margin: 40px 0;
+            border: 0;
+            height: 3px;
+            background: #d1d5db;
+        }
+
+        .linkedin-section {
+            background-color: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 30px;
+        }
+
+        .hashtags {
+            color: #0A66C2;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+
+        a {
+            color: #0A66C2;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Post 6: Managing Assignments, Quizzes, and Labs</h1>
+
+    <img src="a6.png" alt="Managing Assignments, Quizzes, and Labs">
+
+    <p>
+        As I progressed through my second semester of Computer Engineering at UET, I realized that university life was not only about attending lectures and passing exams. It was equally about learning how to manage time, responsibilities, and multiple academic tasks simultaneously. Looking back, one of the biggest challenges of my semester was managing assignments, quizzes, and labs while keeping up with regular coursework.
+    </p>
+
+    <p>
+        Earlier in my journey, I shared how adapting to university life and understanding programming concepts required patience and consistency. However, this semester introduced a completely new challenge: managing continuous assessments while maintaining academic performance across multiple subjects.
+    </p>
+
+    <p>
+        During this semester, I studied Object-Oriented Programming (OOP), Database Management Systems (DBMS), Digital Logic Design, Communication Skills, and Probability & Statistics. Every subject demanded a different learning strategy. While Communication Skills and Probability & Statistics required regular study and practice, OOP and DBMS required extensive practical work and problem-solving.
+    </p>
+
+    <p>
+        UET follows a structured assessment system where each subject includes approximately six assignments and two quizzes during the semester. In addition, practical courses involve regular laboratory sessions. Initially, this workload appeared manageable, but as the semester progressed, I discovered that deadlines often arrived simultaneously.
+    </p>
+
+    <p>
+        The most challenging part of the semester was undoubtedly balancing OOP and DBMS labs with assignments from other subjects. I still remember weeks when multiple assignments, quizzes, and lab tasks had to be completed together. Those weeks tested not only my academic abilities but also my time management skills.
+    </p>
+
+    <p>
+        Among all courses, the OOP lab became one of the most memorable learning experiences. At the beginning, concepts such as classes, objects, inheritance, and polymorphism seemed difficult to understand. Fortunately, continuous practice and the guidance of <strong>Dr. Bilal Ahmad</strong> helped me gradually overcome these challenges. His teaching style and encouragement motivated many students, including myself, to remain consistent and continue practicing until the concepts became clear.
+    </p>
+
+    <p>
+        Similarly, the DBMS lab required significant effort. Designing databases, creating ER diagrams, and writing SQL queries demanded both conceptual understanding and practical implementation. My friends and I often spent extra hours discussing queries, debugging errors, and preparing lab tasks together before submission deadlines.
+    </p>
+
+    <p>
+        Working with friends played an important role throughout the semester. Whenever deadlines became overwhelming, collaborative discussions helped us understand difficult topics more effectively. These interactions not only improved our academic performance but also strengthened our friendships and teamwork skills.
+    </p>
+
+    <p>
+        One lesson I learned during this semester was that relying solely on memory to manage deadlines is not always effective. I mostly depended on remembering everything myself, which occasionally resulted in stress and last-minute submissions. There were instances when overlapping deadlines forced me to work late into the night to complete assignments and lab reports.
+    </p>
+
+    <p>
+        Quiz weeks were particularly stressful. Preparing for Probability & Statistics while simultaneously revising Digital Logic Design concepts and completing programming assignments required careful balancing. Despite the pressure, these experiences taught me how to prioritize tasks and work efficiently under tight deadlines.
+    </p>
+
+    <p>
+        Throughout the semester, <strong>Dr. Bilal Ahmad</strong> continuously guided and motivated us, not only regarding academics but also in personal and professional development. His advice extended beyond classroom discussions. He encouraged us to remain disciplined, focus on continuous learning, and view challenges as opportunities for growth. His mentorship positively influenced many aspects of my academic journey.
+    </p>
+
+    <p>
+        Looking back, managing assignments, quizzes, and labs was one of the most demanding yet rewarding experiences of my second semester. Although there were stressful moments, missed deadlines, and long nights of study, these experiences significantly contributed to my personal and academic growth.
+    </p>
+
+    <p>
+        Today, I realize that assignments and lab work are much more than assessment tools. They prepare students for professional life by teaching essential skills such as time management, teamwork, problem-solving, communication, and perseverance. These lessons continue to shape my journey as a Computer Engineering student.
+    </p>
+
+    <hr>
+
+    <div class="linkedin-section">
+        <p>
+            While reflecting on my second semester, I also explored some of the professional activities shared by <strong>Dr. Bilal Ahmad</strong> on LinkedIn. It helped me understand how the concepts we learn in OOP and DBMS connect with research, industry practices, and real-world problem solving.
+        </p>
+
+        <p>
+            LinkedIn:
+            <a href="https://www.linkedin.com/in/drbilalphd/" target="_blank">
+                https://www.linkedin.com/in/drbilalphd/
+            </a>
+        </p>
+
+        <p class="hashtags">
+            #DrBilalAhmad
+        </p>
+    </div>
+
+    <p class="hashtags">
+        #ComputerEngineering #UET #StudentLife #SecondSemester
+        #OOP #DBMS #DigitalLogicDesign #Programming
+        #TimeManagement #EngineeringJourney #UniversityLife
+        #LearningJourney #FutureEngineer #DrBilalAhmad
+    </p>
+
+</body>
+</html>
+```
