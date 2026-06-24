@@ -1,23 +1,18 @@
-```markdown
 ---
 layout: single
 title: "My First Experience with Object-Oriented Programming at UET"
 date: 2026-05-10
 author: "Muhammad Abbas"
-
 categories:
   - Programming
   - OOP
-
 tags:
   - OOP
   - Computer-Engineering
   - UET-FSD
   - Projects
   - Learning
-
 excerpt: "My journey of learning Object-Oriented Programming during my second semester at UET Lahore Faisalabad Campus."
-
 header:
   teaser: /assets/images/a4.png
 ---
@@ -48,7 +43,6 @@ Overall, my first experience with Object-Oriented Programming transformed my per
 
 While reflecting on my second semester, I also explored some of the professional activities shared by **Dr. Bilal Ahmad** on LinkedIn. It helped me understand how the skills we are learning in university connect with research, industry practices, and real-world problem solving.
 
-LinkedIn: https://www.linkedin.com/in/drbilalphd/
+**Connect on LinkedIn:** [Dr. Bilal Ahmad](https://www.linkedin.com/in/drbilalphd/)
 
 #DrBilalAhmad
-```
