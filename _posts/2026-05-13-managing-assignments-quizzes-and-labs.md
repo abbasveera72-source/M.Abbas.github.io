@@ -17,10 +17,12 @@ tags:
   - Learning
 excerpt: "My journey of managing assignments, quizzes, and laboratory work during my second semester at UET Lahore Faisalabad Campus."
 header:
+  overlay_image: /assets/images/a6.png
+  overlay_filter: 0.5 # Optional: dims image slightly so white title text stays readable
   teaser: /assets/images/a6.png
 ---
 
-![Semester Journey Banner](/assets/images/a6.png)
+![Semester Journey Banner]({{ '/assets/images/a6.png' | relative_url }})
 
 As I continued my journey in the second semester at UET Lahore Faisalabad Campus, I realized that university life is not only about attending lectures and passing examinations. It is also about learning how to manage time, responsibilities, and academic pressure.
 
