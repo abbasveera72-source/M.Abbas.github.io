@@ -3,7 +3,7 @@
 layout: single
 title: "Managing Assignments, Quizzes, and Labs During My Second Semester at UET"
 date: 2026-05-13
-author: "Muhammad Abbas"
+author: Muhammad Abbas
 
 categories:
 
@@ -41,7 +41,7 @@ The courses I studied during this semester included **Object-Oriented Programmin
 
 As the semester progressed, I quickly discovered that deadlines often arrived at the same time. There were weeks when assignments from multiple subjects, quiz preparations, and lab submissions had to be managed simultaneously. Balancing all these academic responsibilities was not easy.
 
-Among all the subjects, **OOP** and **DBMS** required the most consistent effort. Initially, I found OOP difficult because concepts such as classes, objects, inheritance, and polymorphism were entirely new to me. Writing programs, debugging errors, and understanding object-oriented thinking often consumed many hours.
+Among all the subjects, **OOP** and **DBMS** required the most consistent effort. Initially, I found OOP difficult because concepts such as classes, objects, inheritance, and polymorphism were entirely new to me.
 
 Fortunately, continuous practice and the guidance provided by **Dr. Bilal Ahmad** helped me overcome many of these difficulties. His encouragement motivated us to continue practicing and remain consistent even when concepts appeared challenging. Gradually, programming transformed from a difficult subject into one of the most enjoyable aspects of my academic journey.
 
