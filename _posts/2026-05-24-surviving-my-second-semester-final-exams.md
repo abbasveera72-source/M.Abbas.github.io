@@ -1,14 +1,32 @@
-```markdown
----
-layout: post
-title: "Surviving My Second Semester Final Exams: Lessons, Challenges, and Growth"
-date: 2026-05-24
-categories: [student-life, exams, uetfsd]
-tags: [final-exams, computer-engineering, group-study, time-management]
-description: "My experience of final examinations during my second semester at UET Lahore Faisalabad Campus."
 ---
 
-<img src="{{ '/assets/images/aa.png' | relative_url }}" alt="Final Exam Week">
+layout: single
+title: "Surviving My Second Semester Final Exams: Lessons, Challenges, and Growth"
+date: 2026-05-24
+author: "Muhammad Abbas"
+
+categories:
+
+* Student-Life
+* Exams
+
+tags:
+
+* Final-Exams
+* Computer-Engineering
+* UET-FSD
+* Time-Management
+* Group-Study
+
+excerpt: "My experience of surviving final examinations during my second semester at UET Lahore Faisalabad Campus."
+
+header:
+teaser: /assets/images/aa.png
+-----------------------------
+
+<img src="{{ '/assets/images/aa.png' | relative_url }}"
+  alt="Final Exam Week"
+  style="width:100%; border-radius:10px; margin-bottom:20px;">
 
 # Surviving My Second Semester Final Exams: Lessons, Challenges, and Growth
 
@@ -26,7 +44,9 @@ Fortunately, **Dr. Bilal Ahmad**, who taught us DBMS, always encouraged us to un
 
 ## The Importance of Group Study
 
-<img src="{{ '/assets/images/a1.png' | relative_url }}" alt="Group Study">
+<img src="{{ '/assets/images/a1.png' | relative_url }}"
+  alt="Group Study"
+  style="width:100%; border-radius:10px; margin-bottom:20px;">
 
 Another important aspect of my exam preparation was group study. I prepared for exams together with my friends. Studying in a group proved to be highly beneficial because we were able to discuss difficult concepts, solve problems collaboratively, and clarify misunderstandings.
 
@@ -41,4 +61,3 @@ Perhaps the most valuable lesson I learned during final exams was the importance
 Looking back, my final examination week was not merely a period of academic assessment. It was an experience that taught me valuable life skills, including time management, teamwork, discipline, and perseverance. As I continue my journey as a Computer Engineering student, I believe these lessons will continue to guide me in future semesters and professional life.
 
 Although the examination week was stressful, it ultimately strengthened my confidence and prepared me for future academic challenges. Every examination, assignment, and learning experience contributes to personal growth, and I am excited to continue progressing throughout my engineering journey.
-```
