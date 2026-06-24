@@ -1,38 +1,34 @@
-```markdown
 ---
 layout: post
-title: "Surviving My Second Semester Final Exams: Lessons, Challenges, and Growth"
+title: "Surviving My Second Semester Final Exams"
 date: 2026-06-25
-categories: [student-life, exams, uetfsd]
-tags: [final-exams, computer-engineering, group-study, time-management]
+categories: [github, portfolio, student-life]
+tags: [final-exams, uetfsd, computer-engineering, group-study]
 description: "My experience of final examinations during my second semester at UET Lahore Faisalabad Campus."
 ---
 
 ![Final Exam Week](/assets/images/aa.png)
 
-# Surviving My Second Semester Final Exams: Lessons, Challenges, and Growth
+# Surviving My Second Semester Final Exams
 
-The final examination week of my second semester at **UET Lahore Faisalabad Campus** was one of the most challenging yet memorable experiences of my academic journey. As a Computer Engineering student, I had to prepare for several subjects, including **Digital Logic Design (DLD), Object Oriented Programming (OOP), Communication Skills, Database Management Systems (DBMS), Calculus II, and Applied Statistics and Probability**.
+As a second semester Computer Engineering student at **UET Lahore Faisalabad Campus**, the final examination week was one of the most challenging periods of my academic journey.
 
-Unlike many students who begin studying only a few days before exams, I started my preparation early. This decision helped me remain organized and reduced my stress during the examination period.
+During this semester, I studied several subjects including **Digital Logic Design (DLD), Object Oriented Programming (OOP), Communication Skills, Database Management System (DBMS), Calculus II, and Applied Statistics and Probability**.
 
-During exam week, I studied approximately **five hours daily**. Maintaining consistency every day was difficult, but it allowed me to revise concepts effectively and remain focused.
+I started my exam preparation early and studied almost **five hours daily**. This habit helped me manage stress and prepare effectively for all subjects.
 
-One of the biggest challenges I faced during final exams was stress and pressure. Like many university students, I experienced sleepless nights and anxiety. However, following a proper study schedule helped me stay calm and motivated.
+Among all the subjects, **Database Management System (DBMS)** was the most difficult for me because it required a deep understanding of concepts such as SQL, normalization, and relational algebra.
 
-Among all subjects, **Database Management Systems (DBMS)** was the most difficult for me because it involved normalization, SQL queries, relational algebra, and many theoretical concepts. Fortunately, **Dr. Bilal Ahmad** always encouraged us to understand concepts rather than memorize them. His teaching style greatly helped me during exam preparation.
+Fortunately, **Dr. Bilal Ahmad**, who taught us DBMS, always encouraged us to understand concepts instead of memorizing them. His guidance played an important role in my exam preparation.
 
-## The Importance of Group Study
+## Group Study Experience
 
 ![Group Study](/assets/images/a1.png)
 
-Another important aspect of my preparation was group study. I prepared for exams together with my friends. Studying in a group proved highly beneficial because we discussed difficult concepts, solved problems collaboratively, and clarified misunderstandings.
+I also participated in group study sessions with my classmates. Group study helped us discuss difficult topics, solve problems together, and learn from each other.
 
-Managing assignments, laboratory work, and examination preparation simultaneously was another significant challenge. University life requires students to balance multiple responsibilities at the same time.
+Managing assignments, lab work, and exam preparation simultaneously was not easy, but it taught me valuable lessons about discipline and time management.
 
-The most valuable lesson I learned during final exams was the importance of studying lectures regularly. Continuous learning throughout the semester is much more effective than last-minute preparation.
+The biggest lesson I learned from this semester is that students should revise their lectures regularly instead of relying on last-minute preparation.
 
-Looking back, my final examination week taught me valuable life skills including time management, teamwork, discipline, and perseverance. These experiences will continue to help me throughout my engineering journey.
-
-Although the examination week was stressful, it strengthened my confidence and prepared me for future academic challenges. I am excited to continue learning and growing as a Computer Engineering student.
-```
+Although the examination period was stressful, it strengthened my confidence and improved my academic skills. I look forward to applying these lessons in future semesters.
