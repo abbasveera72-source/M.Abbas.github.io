@@ -20,6 +20,8 @@ header:
   teaser: /assets/images/a6.png
 ---
 
+![Semester Journey Banner](/assets/images/a6.png)
+
 As I continued my journey in the second semester at UET Lahore Faisalabad Campus, I realized that university life is not only about attending lectures and passing examinations. It is also about learning how to manage time, responsibilities, and academic pressure.
 
 After my first experience with Object-Oriented Programming (OOP) and various semester projects, I entered a phase where managing coursework became one of my biggest challenges. During this semester, every subject included approximately six assignments and two quizzes, which is a standard assessment policy at UET. In addition, practical courses required regular laboratory sessions and lab reports.
