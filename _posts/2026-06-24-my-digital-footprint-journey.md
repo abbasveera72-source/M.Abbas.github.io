@@ -1,28 +1,24 @@
 ---
-
+layout: single
 title: "My Digital Footprint Journey: Building My First GitHub Portfolio Website"
 date: 2026-06-24
-layout: single
 author: "Muhammad Abbas"
 categories:
-
-* GitHub
-* Portfolio
-  tags:
-* Digital Footprint
-* GitHub Pages
-* Computer Engineering
-* UET FSD
-  header:
+  - GitHub
+  - Portfolio
+tags:
+  - Digital-Footprint
+  - GitHub-Pages
+  - Computer-Engineering
+  - UET-FSD
+excerpt: "My experience of creating my first GitHub portfolio website as a Computer Engineering student at UET Lahore Faisalabad Campus."
+header:
   teaser: "/assets/images/al.png"
-  overlay_image: "/assets/images/al.png"
-  excerpt: "My experience of creating my first GitHub portfolio website as a Computer Engineering student at UET Lahore Faisalabad Campus."
-
 ---
 
-![My GitHub Portfolio Website]({{ site.baseurl }}/assets/images/al.png)
+![My GitHub Portfolio Website](/assets/images/al.png)
 
-## My Digital Footprint Journey: Building My First GitHub Portfolio Website
+# My Digital Footprint Journey: Building My First GitHub Portfolio Website
 
 As a second semester Computer Engineering student at **UET Lahore Faisalabad Campus**, this semester introduced me to many ideas that extended beyond traditional classroom learning. Among all the assignments and activities, one idea particularly changed the way I think about my future as an engineer: creating a personal portfolio website on GitHub.
 
@@ -38,7 +34,9 @@ One of the biggest difficulties I faced was working with HTML. Although HTML app
 
 Another major challenge involved deployment. Publishing the website using GitHub Pages was not as straightforward as I initially expected. There were moments when the website did not load correctly or changes did not appear after updating the repository.
 
-Despite these challenges, the excitement of seeing my own website live on the internet was truly rewarding.
+Despite these challenges, the excitement of seeing my own website live on the internet was truly rewarding. For the first time, I felt that I had created something publicly accessible that represented me as a Computer Engineering student.
+
+This project also changed my perspective regarding learning. Previously, I mainly focused on completing assignments for grades. However, building a portfolio website demonstrated that academic activities can contribute directly to long-term professional growth.
 
 For this reason, I have decided that I will continue updating my portfolio website even after this semester ends. I want my website to document my entire engineering journey, including future academic projects, programming experiences, and personal reflections.
 
