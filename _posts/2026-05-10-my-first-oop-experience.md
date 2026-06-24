@@ -3,23 +3,27 @@ layout: single
 title: "My First Experience with Object-Oriented Programming at UET"
 date: 2026-05-10
 author: "Muhammad Abbas"
+
 categories:
   - Programming
   - OOP
+
 tags:
   - OOP
   - Computer-Engineering
   - UET-FSD
   - Projects
   - Learning
+
 excerpt: "My journey of learning Object-Oriented Programming during my second semester at UET Lahore Faisalabad Campus."
+
 header:
   teaser: /assets/images/a4.png
 ---
 
 <img src="{{ '/assets/images/a4.png' | relative_url }}"
-     alt="Object Oriented Programming Experience"
-     style="width:100%; border-radius:10px; margin-bottom:20px;">
+  alt="Object Oriented Programming Experience"
+  style="width:100%; border-radius:10px; margin-bottom:20px;">
 
 # My First Experience with Object-Oriented Programming at UET
 
@@ -32,6 +36,8 @@ A major factor that helped me overcome these difficulties was the guidance provi
 One of the most memorable experiences of this semester was working on different academic projects. In OOP, we developed a **Game** and a **University Management System**. These projects strengthened my understanding of programming concepts and improved my problem-solving abilities.
 
 In addition, our **Database Management System (DBMS)** project on the **Lung Cancer Risk Prediction System** introduced us to the exciting field of Machine Learning collaboration. This experience helped me understand how software and intelligent systems can be used to solve real-world problems.
+
+## Project Exhibition Experience
 
 Another memorable event during the semester was participating in the **project exhibitions** organized for OOP and DBMS projects. These exhibitions allowed us to present our work, learn from other students, and gain valuable practical experience.
 
