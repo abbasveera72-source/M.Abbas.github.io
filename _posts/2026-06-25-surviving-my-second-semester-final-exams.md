@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Surviving My Second Semester Final Exams"
-date: 2026-06-25
+date: 2026-05-24
 categories: [github, portfolio, student-life]
 tags: [final-exams, uetfsd, computer-engineering, group-study]
 description: "My experience of final examinations during my second semester at UET Lahore Faisalabad Campus."
