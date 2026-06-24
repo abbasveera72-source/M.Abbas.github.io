@@ -3,12 +3,12 @@
 layout: post
 title: "Surviving My Second Semester Final Exams: Lessons, Challenges, and Growth"
 date: 2026-06-25
-categories: [student-life, exams]
-tags: [final-exams, computer-engineering, uetfsd, group-study]
-description: "My experience of final examination week during my second semester at UET Lahore Faisalabad Campus."
+categories: [student-life, exams, uetfsd]
+tags: [final-exams, computer-engineering, group-study, time-management]
+description: "My experience of final examinations during my second semester at UET Lahore Faisalabad Campus."
 ---
 
-![Final Exam Week]({{ site.baseurl }}/assets/images/aa.png)
+![Final Exam Week](/assets/images/aa.png)
 
 # Surviving My Second Semester Final Exams: Lessons, Challenges, and Growth
 
@@ -24,7 +24,7 @@ Among all subjects, **Database Management Systems (DBMS)** was the most difficul
 
 ## The Importance of Group Study
 
-![Group Study]({{ site.baseurl }}/assets/images/a1.png)
+![Group Study](/assets/images/a1.png)
 
 Another important aspect of my preparation was group study. I prepared for exams together with my friends. Studying in a group proved highly beneficial because we discussed difficult concepts, solved problems collaboratively, and clarified misunderstandings.
 
