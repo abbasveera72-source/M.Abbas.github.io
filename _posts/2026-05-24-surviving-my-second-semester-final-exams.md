@@ -1,3 +1,4 @@
+```markdown
 ---
 layout: post
 title: "Surviving My Second Semester Final Exams"
@@ -7,7 +8,7 @@ tags: [final-exams, uetfsd, computer-engineering, group-study]
 description: "My experience of final examinations during my second semester at UET Lahore Faisalabad Campus."
 ---
 
-![Final Exam Week](/assets/images/aa.png)
+<img src="{{ '/assets/images/aa.png' | relative_url }}" alt="Final Exam Week">
 
 # Surviving My Second Semester Final Exams
 
@@ -23,7 +24,7 @@ Fortunately, **Dr. Bilal Ahmad**, who taught us DBMS, always encouraged us to un
 
 ## Group Study Experience
 
-![Group Study](/assets/images/a1.png)
+<img src="{{ '/assets/images/a1.png' | relative_url }}" alt="Group Study">
 
 I also participated in group study sessions with my classmates. Group study helped us discuss difficult topics, solve problems together, and learn from each other.
 
@@ -32,3 +33,4 @@ Managing assignments, lab work, and exam preparation simultaneously was not easy
 The biggest lesson I learned from this semester is that students should revise their lectures regularly instead of relying on last-minute preparation.
 
 Although the examination period was stressful, it strengthened my confidence and improved my academic skills. I look forward to applying these lessons in future semesters.
+```
