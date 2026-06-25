@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Post 7: Hitting the Academic Wall – The Toughest Challenges of My Second Semester"
-date: 2026-06-27
+date: 2026-05-14
 author: "Muhammad Abbas"
 categories:
   - Computer-Engineering
