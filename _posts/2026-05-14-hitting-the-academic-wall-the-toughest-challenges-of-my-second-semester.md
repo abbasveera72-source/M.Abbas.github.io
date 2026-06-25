@@ -83,4 +83,4 @@ By the time final examinations approached, I felt significantly more prepared th
 
 Looking back, the toughest challenges of my second semester ultimately became the most valuable learning experiences of my academic journey. They taught me that **resilience is a core engineering requirement**—it is essential. True understanding comes not from passive observation but from active engagement, continuous practice, and guidance from dedicated teachers.
 
-While the semester was gauges of a multi-front war, overcoming these difficulties strengthened both my academic foundation and my confidence as a future Computer Engineer.
+While the semester felt like a multi-front war, overcoming these difficulties strengthened both my academic foundation and my confidence as a future Computer Engineer.
